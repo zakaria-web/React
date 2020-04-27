@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.0e19c9ff.chunk.css",
+    "main.js": "/react/static/js/main.a14cab5a.chunk.js",
+    "main.js.map": "/react/static/js/main.a14cab5a.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.22637ffc.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.22637ffc.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/react/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.b7e3d66e.chunk.js": "/react/static/js/2.b7e3d66e.chunk.js",
+    "static/js/2.b7e3d66e.chunk.js.map": "/react/static/js/2.b7e3d66e.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.ffa58ac6d44ac16a143f5def7b41c7fd.js": "/react/precache-manifest.ffa58ac6d44ac16a143f5def7b41c7fd.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/react/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.0e19c9ff.chunk.css.map": "/react/static/css/main.0e19c9ff.chunk.css.map",
+    "static/js/2.b7e3d66e.chunk.js.LICENSE.txt": "/react/static/js/2.b7e3d66e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22637ffc.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.b7e3d66e.chunk.js",
+    "static/css/main.0e19c9ff.chunk.css",
+    "static/js/main.a14cab5a.chunk.js"
+  ]
+}
